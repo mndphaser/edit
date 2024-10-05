@@ -300,6 +300,17 @@
 
 ***
 
+#  ► Denmark / Danish
+
+* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
+## ▷ Reading * 
+[Det Kgl. Bibliotek.] (https://www.kb.dk/) - Books / Journals / Magazines / Maps / Music Sheets
+
+## ▷ Streaming
+
+* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
+* [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
+
 # ► Filipino / Pinoy
 
 ## ▷ Streaming / Nanonood 
@@ -842,8 +853,6 @@
 ***
 
 # ► Norwegian / Norsk
-
-* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
 
 ## ▷ Streaming
 
@@ -1820,8 +1829,6 @@
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian Streaming / Dubbed Cartoons / Use Adblock
-* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
-* [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
